@@ -13,3 +13,19 @@
 你需要什么，就最小化满足什么，因为有些有些人一辈子不认识英文也可以找翻译，你学英文是迫不得已，你没钱雇佣一个翻译而已。
 
 很简单的例子，如果会英文就有价值，那么美国为什么还有流浪汉，他们的英文可比你学了十几年英语课本、试卷还要地道。
+
+Ok, go from basics/elements.
+
+```
+world:
+  noun: 
+    1. subject
+      1. before verb, e.g. I eat apple
+      2. before state, e.g. I am big
+    2. object
+      1. (direct object) after verb, e.g. I eat apple
+      2. 
+我好讨厌多义词，你想表达问题用problem不好么？为什么object也用来表达这个意思？？？？你想表达物体用substance不好么？？？？为什么一会目标，一会物体，一会客体？？？你脑子是闲的蛋疼么？
+
+可见广大人民还是用64%的使用频率用屁股支持了一词一义的事实。他的三分之二的用途就是用来表示对象这个意思。
+```
